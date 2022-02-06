@@ -1,0 +1,27 @@
+{
+  "name": "api-development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahendran-pm/api-development.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-oauth2-jwt-bearer": "^1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/mahendran-pm/api-development/issues"
+  },
+  "homepage": "https://github.com/mahendran-pm/api-development#readme"
+}
